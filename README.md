@@ -1,2 +1,1 @@
-# git_test
-Odin Project Tutorial
+This is stockmeierb's first git project!
